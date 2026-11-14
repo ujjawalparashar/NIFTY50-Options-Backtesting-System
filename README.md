@@ -164,3 +164,7 @@ GitHub: https://github.com/ujjawalparashar
 ---
 
 **Project:** NIFTY 50 Historical Data Analysis and Options Strategy Backtesting System
+
+## Dashboard Screenshots
+
+[View Project Dashboard Screenshots (PDF)](dashboard_screenshots.pdf)
